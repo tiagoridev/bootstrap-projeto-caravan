@@ -8,3 +8,13 @@ Bootstrap nos auxilia em atividades que antes precisariamos investir um tempo ma
 * CSS;
 * BOOTSTRAP;
 * GIT.
+
+## LINK DO PROJETO
+https://tiagoridev.github.io/bootstrap-projeto-caravan/index.html
+
+## FALE COMIGO
+Linkedin </br>
+https://www.linkedin.com/in/tiagoribeirotech/
+
+Email </br>
+tiagobr.desenvolvedor@gmail.com
